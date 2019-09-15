@@ -1,0 +1,9 @@
+name: ml
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - Pillow
+  - matplotlib
+  - jupyter
+  - scikit-learn
